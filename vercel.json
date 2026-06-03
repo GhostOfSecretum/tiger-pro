@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/Tiger Pro.html", "destination": "/index.html" }
+  ]
+}
